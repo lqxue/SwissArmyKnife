@@ -1,12 +1,12 @@
 package com.wanjian.sak.system.window.compact;
 
-import android.support.annotation.NonNull;
 import android.view.View;
 import android.view.ViewRootImpl;
 
+import androidx.annotation.NonNull;
+
 import com.wanjian.sak.proxy.ProxyArrayList;
 
-import java.lang.reflect.Array;
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

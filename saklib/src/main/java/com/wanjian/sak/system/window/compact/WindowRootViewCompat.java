@@ -2,7 +2,8 @@ package com.wanjian.sak.system.window.compact;
 
 import android.content.Context;
 import android.os.Build;
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 /*
  * get the root view of all windows

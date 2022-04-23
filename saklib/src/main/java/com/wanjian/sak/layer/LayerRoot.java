@@ -6,10 +6,11 @@ import android.graphics.PorterDuff;
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.support.annotation.NonNull;
 import android.view.InputEvent;
 import android.view.View;
 import android.view.ViewRootImpl;
+
+import androidx.annotation.NonNull;
 
 import com.wanjian.sak.config.Config;
 import com.wanjian.sak.config.Item;
